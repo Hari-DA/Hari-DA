@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Hari-DA (Sri Hari)
-- 👀 I’m interested in Data Analysis, Data Science, and Machine Learning. I love turning data into actionable insights and building data-driven solutions.
-- 🌱 I’m currently learning advanced data engineering techniques, cloud computing, and DevOps practices to enhance my skills in data science projects.
-- 💞️ I’m looking to collaborate on open-source data science projects, Kaggle competitions, and any innovative project where data is the key focus.
-- 📫 How to reach me: You can reach me via email at goshika.srihari1@gmail.com or connect with me on LinkedIn.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a knack for visual storytelling through data visualization and enjoy exploring new tools and technologies that can make data analysis more efficient and effective.
-
-<!---
-Hari-DA/Hari-DA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Hari-DA (Sri Hari)
+👀 I’m passionate about Data Analysis, Data Science, and Machine Learning. I love transforming raw data into meaningful insights to help drive decision-making.
+🌱 I’m currently learning advanced data engineering techniques, cloud computing, and DevOps practices to further strengthen my data science expertise, all of which will contribute to my startup, Tag2Work.
+💞️ I’m looking to collaborate on open-source data science projects, Kaggle competitions, and innovative initiatives focused on data.
+📫 How to reach me: Feel free to email me at goshika.srihari1@gmail.com or connect with me on LinkedIn.
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy building stories through data visualization and always explore new tools and technologies to streamline data analysis and deliver impactful results.
